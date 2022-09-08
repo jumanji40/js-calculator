@@ -1,2 +1,2 @@
-# js-calculator
+# Js-Calculator
 The Fullstack Program
